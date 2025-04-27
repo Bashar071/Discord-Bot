@@ -1,0 +1,13 @@
+{
+  "token": "MTM1MDY0MjE0NjAyMTIxNjI1Nw.GxqzCT.lQI_37EoZyi0qAg77CSCiOyg3XG_1lSqAkwbzM",
+  "prefix": "@",
+  "loggingChannel": "123456789012345678",
+  "muteRole": "987654321098765432",
+  "commands": {
+    "mod": ["kick", "ban", "unban", "mute", "unmute", "warn", "unwarn"],
+    "admin": ["setprefix", "setlogging", "announce"],
+    "utility": ["userinfo", "serverinfo", "roleinfo", "avatar", "ping", "botinfo", "help"],
+    "fun": ["tictactoe", "chess", "joke", "truthordare", "story", "cosplay"],
+    "games": ["chess", "tictactoe", "uno", "truthordare", "rps", "hangman", "minesweeper"]
+  }
+}
