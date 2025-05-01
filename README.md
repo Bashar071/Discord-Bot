@@ -19,4 +19,4 @@
     └── warn unwarn.js 
 └── package.json 
 
-:waring: In the each files please replace client.login('your-bot-token-here'); with your actual discord bot token
+:warning: In the each files please replace client.login('your-bot-token-here'); with your actual discord bot token
